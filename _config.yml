@@ -1,6 +1,3 @@
-# The Site Configuration
-
-# Import the theme
 theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
@@ -18,33 +15,25 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: The Entangled Programmer
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Personal blog to share what I like
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Henrique Boneto personal blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://bonetou.github.io/"
 
 github:
-  username: bonetou # change to your github username
-
-# twitter:
-#   username: twitter_username # change to your twitter username
+  username: bonetou
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Henrique Boneto
-  email: boneto.henrique@gmail.com # change to your email address
+  email: boneto.henrique@gmail.com
+  linkedin: https://www.linkedin.com/in/henriqueboneto
   links:
-    - https://github.com/bonetou # change to your github homepage
-    # The first element serves as the copyright owner's link
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/bonetou
 
 google_site_verification: # fill in to your verification string
 
@@ -79,7 +68,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/avatar.jpeg
+avatar: /assets/img/avatar.jpeg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
