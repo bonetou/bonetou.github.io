@@ -4,12 +4,6 @@ icon: fas fa-file
 order: 5
 ---
 
-## ABOUT
-Software Engineer working in the payment's industry.
-Mainly working with Python and Typescript.
-Currently working remotely.
-
-
 ## EXPERIENCE
 
 #### Software Engineer @ Pagar.me
